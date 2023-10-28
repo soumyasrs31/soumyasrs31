@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/efe028a1acecb148345817f09b7aa02ccb73f1335baf7ece530f6be85d4bfa1e/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f32662f66342f32382f32666634323830303666336164653566313062656163363933373230363261622e676966)
 <h1 align="center">Hi 👋, I'm Soumya Ranjan Sahoo</h1>
 <h3 align="center">A passionate Back-end Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="350" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyasrs31&label=Profile%20views&color=0e75b6&style=flat" alt="soumyasrs31" /> </p>
 
 - 🌱 I’m currently learning **Spring Boot**
