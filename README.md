@@ -40,6 +40,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumyasrs31&show_icons=true&locale=en" alt="soumyasrs31" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyasrs31&" alt="soumyasrs31" /></p>
-<img alt="Coding" width="400" src="https://camo.githubusercontent.com/600c7d452b1b82b6312b9554654816ea3fd7aa20224c4f0b3b25730239d253e8/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d417263686974656374732b446175676874657226636f6c6f723d6666303030302673697a653d3230266c696e65733d5468616e6b73212b466f722b5669736974696e672b4d792b50726f66696c65213b5365652b596f752b4e6578742d54696d652b486f70652b752b6c696b652b69742e2e2ef09f91a8f09f8fbbe2808df09f92bb3b">
-
-![MasterHead](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
